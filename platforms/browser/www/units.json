@@ -1,0 +1,116 @@
+{
+    "units": [
+        {
+            "unit_name" : "513 MXS/AMXS",
+            "unit_pass" : "safeandsound",
+            "unit_base" : {
+                "base_name" : "Tinker",
+                "base_aadd_num" : "4058204444",
+                "base_sapr_num" : "4057347272",
+                "base_cab_num" : "4052326161",
+                "base_afrc_num" : "4057392747"
+            },
+            "unit_shirt_num" : "4056646910",
+            "unit_chaplain_num" : "4053433771",
+            "logo" : "513mxsamxs.png"
+        },
+        {
+            "unit_name" : "552 ACW",
+            "unit_pass" : "americaswing",
+            "unit_base" : {
+                "base_name" : "Tinker",
+                "base_aadd_num" : "4058204444",
+                "base_sapr_num" : "4057347272",
+                "base_cab_num" : "4052326161",
+                "base_afrc_num" : "4057392747"
+            },
+            "unit_shirt_num" : "4054095872",
+            "logo" : "552acw.png",
+            "unit_chaplain_num" : "4057342111"
+        },
+        {
+            "unit_name" : "552 AMXS",
+            "unit_pass" : "readytofight",
+            "unit_base" : {
+                "base_name" : "Tinker",
+                "base_aadd_num" : "4058204444",
+                "base_sapr_num" : "4057347272",
+                "base_cab_num" : "4052326161",
+                "base_afrc_num" : "4057392747"
+            },
+            "unit_shirt_num" : "4054093675",
+            "logo" : "552amxs.png",
+            "unit_chaplain_num" : "4197856322"
+        },
+        {
+            "unit_name" : "552 MXG",
+            "unit_pass" : "maintenancerocks",
+            "unit_base" : {
+                "base_name" : "Tinker",
+                "base_aadd_num" : "4058204444",
+                "base_sapr_num" : "4057347272",
+                "base_cab_num" : "4052326161",
+                "base_afrc_num" : "4057392747"
+            },
+            "unit_shirt_num" : "4058238424",
+            "logo" : "552mxg.png",
+            "unit_chaplain_num" : "4197856322"
+        },
+        {
+            "unit_name" : "552 MXS",
+            "unit_pass" : "badtothebone",
+            "unit_base" : {
+                "base_name" : "Tinker",
+                "base_aadd_num" : "4058204444",
+                "base_sapr_num" : "4057347272",
+                "base_cab_num" : "4052326161",
+                "base_afrc_num" : "4057392747"
+            },
+            "unit_shirt_num" : "4058238348",
+            "unit_chaplain_num" : "4057345482",
+            "logo" : "552mxs.png"
+        },
+        {
+            "unit_name" : "552 OSS",
+            "unit_pass" : "wizard",
+            "unit_base" : {
+                "base_name" : "Tinker",
+                "base_aadd_num" : "4058204444",
+                "base_sapr_num" : "4057347272",
+                "base_cab_num" : "4052326161",
+                "base_afrc_num" : "4057392747"
+            },
+            "unit_shirt_num" : "4054095872",
+            "unit_chaplain_num" : "4057342111",
+            "logo" : "552oss.png"
+        },
+        {
+            "unit_name" : "752 OSS",
+            "unit_pass" : "SaberToothPride",
+            "unit_base" : {
+                "base_name" : "Tinker",
+                "base_aadd_num" : "4058204444",
+                "base_sapr_num" : "4057347272",
+                "base_cab_num" : "4052326161",
+                "base_afrc_num" : "4057392747"
+            },
+            "unit_shirt_num" : "4056274670",
+            "unit_chaplain_num" : "4054160900",
+            "logo" : "752oss.png"
+        },
+        {
+            "unit_name" : "964 AACS",
+            "unit_pass" : "forgedinfire",
+            "unit_base" : {
+                "base_name" : "Tinker",
+                "base_aadd_num" : "4058204444",
+                "base_sapr_num" : "4057347272",
+                "base_cab_num" : "4052326161",
+                "base_afrc_num" : "4057392747"
+            },
+            "unit_shirt_num" : "4056270663",
+            "unit_chaplain_num" : "4054160900",
+            "logo" : "964aacs.png"
+        }
+    ]
+}
